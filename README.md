@@ -42,18 +42,37 @@ Seja bem-vindo ao meu perfil GitHub! Sou um desenvolvedor focado em **Front-End*
 
 # 🎨 **Projetos em Destaque**
 
-## 📦 **Pokédex Interativa**
-Esse projeto, em parceria com a **DIO**, é uma aplicação interativa que permite explorar informações sobre Pokémon. Utiliza a API pública **PokeAPI** para exibir detalhes como tipos, estatísticas e imagens.
+
+## 🌊 **Restaurante Açoriano**
+Um site elegante e responsivo para o **Restaurante Açoriano**, com design tropical e uma navegação fluida.
 
 **Funcionalidades**:  
-- Lista dinâmica de Pokémon com botão "Load More".  
-- Detalhes do Pokémon (altura, peso, estatísticas base).  
-- Design responsivo e moderno.
+- Navegação por seções: Sobre, Eventos, Cardápio, Fale Conosco.  
+- Carrossel de imagens destacando o ambiente do restaurante.  
+- Cardápio interativo com categorias (bebidas, entradas, pratos principais, sobremesas).  
+- Formulário de contato funcional.
 
 **Tecnologias**:  
-HTML5 | CSS3 | JavaScript | PokeAPI  
+HTML5 | CSS3 | Bootstrap 5 | Google Fonts  
 
-[🔗 Repositório no GitHub](https://github.com/ErikCesarTavares/js-developer-pokedex)
+[🔗 Repositório no GitHub](https://github.com/ErikCesarTavares/restaurante-acoriano)
+
+---
+
+## 📦 **Detona Ralph 🕹️**  
+Este projeto é um jogo interativo que testa sua velocidade e reflexos enquanto você tenta marcar a maior pontuação possível. Prepare-se para o desafio! 🎮  
+
+**Funcionalidades**:  
+- Contador de Tempo: Uma contagem regressiva que desafia o jogador a reagir rapidamente.  
+- Pontuação Dinâmica: A cada acerto, sua pontuação aumenta e é exibida em tempo real.  
+- Sistema de Vidas: O jogador começa com 3 vidas. Quando o tempo acaba, uma vida é perdida até o jogo terminar.  
+- Animações e Feedback Sonoro: Sons são reproduzidos ao acertar o inimigo.  
+- Design Responsivo: Estilo retrô inspirado no universo dos games clássicos.  
+
+**Tecnologias**:  
+HTML5 | CSS3 | JavaScript  
+
+[🔗 Repositório no GitHub](https://github.com/ErikCesarTavares/Detona-Ralph---Jogo-Interativo.git)  
 
 ---
 
@@ -102,35 +121,36 @@ HTML5 | CSS3 | JavaScript
 
 ---
 
-## 🕷️ **Spider-Man Multiverses**
-Interface interativa com carrossel animado e transições dinâmicas, inspirada no universo do **Homem-Aranha**. Inclui menus estilizados e fundo de vídeo para uma experiência envolvente.
+## 📦 **Projeto Bootstrap com Carousel, Grid e Cards 💳**  
+O **Projeto Bootstrap com Carousel, Grid e Cards** é uma aplicação web que utiliza o Bootstrap para exibir um carrossel de imagens interativo e uma galeria de cards responsivos com descrições de fotos 🖼️.  
 
-**Componentes**:  
-- Carrossel de cards dinâmico.  
-- Menu lateral estilizado.  
-- Mudança de plano de fundo ao passar o mouse nos cards.
+**Funcionalidades**:  
+- **Carrossel de Imagens**: Exibe imagens com descrições dinâmicas em um formato interativo.  
+- **Cards Responsivos**: Cada card apresenta uma imagem, título e descrição, com um botão para mais detalhes.  
+- **Design Responsivo**: O layout se adapta perfeitamente a diferentes tamanhos de tela.  
 
 **Tecnologias**:  
-HTML5 | CSS3 | JavaScript | Google Fonts  
+HTML5 | CSS3 | JavaScript | Bootstrap 5  
 
-[🔗 Repositório no GitHub](https://github.com/ErikCesarTavares/spider-man-multiverses-dio)
+[🔗 Repositório no GitHub](https://github.com/ErikCesarTavares/projeto-bootstrap-avan-ado)  
 
 ---
 
-## 🌊 **Restaurante Açoriano**
-Um site elegante e responsivo para o **Restaurante Açoriano**, com design tropical e uma navegação fluida.
+## 📦 **Jogo da Memória 🧠**  
+O **Jogo da Memória** é uma aplicação web interativa onde você testa suas habilidades de memória, combinando pares de emojis. 🌟  
 
 **Funcionalidades**:  
-- Navegação por seções: Sobre, Eventos, Cardápio, Fale Conosco.  
-- Carrossel de imagens destacando o ambiente do restaurante.  
-- Cardápio interativo com categorias (bebidas, entradas, pratos principais, sobremesas).  
-- Formulário de contato funcional.
+- **Tabuleiro de Jogo**: Organizado em uma grade 4x4 com cartas que exibem emojis.  
+- **Interatividade**: Clique nas cartas para virá-las e encontrar pares correspondentes.  
+- **Lógica de Jogo**: Validação automática ao selecionar duas cartas, com feedback visual para pares encontrados.  
+- **Alerta de Vitória**: Mensagem exibida ao completar o jogo.  
+- **Estilização Responsiva**: Design colorido e vibrante, ajustável para diversos tamanhos de tela.  
+- **Botão Reset**: Permite reiniciar o jogo facilmente para começar novamente.  
 
 **Tecnologias**:  
-HTML5 | CSS3 | Bootstrap 5 | Google Fonts  
+HTML5 | CSS3 | JavaScript  
 
-[🔗 Repositório no GitHub](https://github.com/ErikCesarTavares/restaurante-acoriano)
-
+[🔗 Repositório no GitHub](https://github.com/ErikCesarTavares/jogo-da-memoria.git)  
 
 ---
 
@@ -162,7 +182,7 @@ HTML5 | CSS3 | Bootstrap 5 | Google Fonts
 ## 📁 **O que estou aprendendo**
 
 Atualmente me dedicando a:
-- **React.js** e seu ecossistema;
+- Melhorar habilidades em **JavaScript**;
 - Melhorar habilidades em **CSS Avançado** (Flexbox, Grid);
 - Integrações e versões com **Git e GitHub**.
 
