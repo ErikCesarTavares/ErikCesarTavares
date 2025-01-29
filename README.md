@@ -144,7 +144,7 @@ O **Jogo da Memória** é uma aplicação web interativa onde você testa suas h
 - **Interatividade**: Clique nas cartas para virá-las e encontrar pares correspondentes.  
 - **Lógica de Jogo**: Validação automática ao selecionar duas cartas, com feedback visual para pares encontrados.  
 - **Alerta de Vitória**: Mensagem exibida ao completar o jogo.  
-- **Estilização Responsiva**: Design colorido e vibrante, ajustável para diversos tamanhos de tela.  
+- **Estilização Responsiva**: Design colorido e vibrante, design otimizado para desktop.  
 - **Botão Reset**: Permite reiniciar o jogo facilmente para começar novamente.  
 
 **Tecnologias**:  
